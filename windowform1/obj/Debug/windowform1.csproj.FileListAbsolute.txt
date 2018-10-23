@@ -1,0 +1,10 @@
+c:\users\jacko\source\repos\windowform1\windowform1\bin\Debug\windowform1.exe.config
+c:\users\jacko\source\repos\windowform1\windowform1\bin\Debug\windowform1.exe
+c:\users\jacko\source\repos\windowform1\windowform1\bin\Debug\windowform1.pdb
+c:\users\jacko\source\repos\windowform1\windowform1\obj\Debug\windowform1.csprojAssemblyReference.cache
+c:\users\jacko\source\repos\windowform1\windowform1\obj\Debug\windowform1.Form1.resources
+c:\users\jacko\source\repos\windowform1\windowform1\obj\Debug\windowform1.Properties.Resources.resources
+c:\users\jacko\source\repos\windowform1\windowform1\obj\Debug\windowform1.csproj.GenerateResource.cache
+c:\users\jacko\source\repos\windowform1\windowform1\obj\Debug\windowform1.csproj.CoreCompileInputs.cache
+c:\users\jacko\source\repos\windowform1\windowform1\obj\Debug\windowform1.exe
+c:\users\jacko\source\repos\windowform1\windowform1\obj\Debug\windowform1.pdb
